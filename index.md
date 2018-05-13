@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page!
+### Version: 1.0
 
-You can use the [editor on GitHub](https://github.com/kraxarn/kraxarn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here you'll find my current (public) projects that are published to GitHub as well as a short description about them and status.
+If you're looking for my main page (where I actually did all the code myself), you can find it [here](https://web.kraxarn.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bank
+### Alpha [(repo)](https://github.com/kraxarn/Bank)
+A virtual bank app useful for games where you have the fake money. Designed for Monopoly in mind, but works with other games of course. Currently in alpha since most features aren't working yet.
 
-### Markdown
+## KraxbotOSS
+### Ongoing [(repo)](https://github.com/kraxarn/KraxbotOSS)
+Open source and cross platform for managing Steam chatrooms. Also supports sending messages to and from a Discord channel. Finished, but receives updates from time to time. A 2.0 update is planned though, with a mostly complete rewrite with added support for multiple user interfaces. That way we don't need to use WinForms for all platforms and actually make it look good. Stay tuned.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kraxarn/kraxarn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## CrowEngine
+### Planned (no repo yet)
+The public version of my 2D game engine. Currently making some changes to make it easier to port to other platforms and such before I make a repo for it, but stay tuned.
