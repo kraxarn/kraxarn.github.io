@@ -1,12 +1,16 @@
 ## Welcome to my GitHub Page!
-### Version: 18.08
+### Version: 19.09
 
 Here you'll find my current (public) projects that are published to GitHub as well as a short description about them and status.
 If you're looking for my main page (where I actually did all the code myself), you can find it [here](https://web.kraxarn.com)
 
+## School Schedule
+### Finished [(repo)](https://github.com/kraxarn/school_schedule)
+App for Android and iOS used to manage your school schedule available for Swedish schools using KronoX. It also supports booking resources. Made in Dart using Flutter and one of my first projects using it. Also one of my largest projects currently. Still receives weekly updates.
+
 ## Bank
 ### Beta [(repo)](https://github.com/kraxarn/Bank)
-A virtual bank app useful for games where you have fake money. Designed for Monopoly in mind, but works with other games of course. Currently in beta since most features work, but it's not very stable yet.
+A virtual bank app useful for games where you have fake money. Designed for Monopoly in mind, but works with other games of course. Currently in beta since most features work, but it's not very stable yet. Currently being rewritting in Flutter, because Xamarin is too buggy and limited.
 
 ## KraxbotOSS
 ### Ongoing [(repo)](https://github.com/kraxarn/KraxbotOSS)
@@ -19,10 +23,6 @@ My Steam chat bot used for various stuff. Recently decided to open source it wit
 ## vgy.me
 ### Finished [(repo)](https://github.com/kraxarn/vgyme)
 An Android app to upload images to vgy.me. Currently supports both uploading from the app or from the native share menu. Requested by a friend of mine. Not very likely to receive any more major updates.
-
-## Battery Notifier
-### Alpha [(repo)](https://github.com/kraxarn/BatteryNotifier)
-An iOS app to send notifications when the battery reaches certain levels. Currently in Alpha since most features doesn't work (like actual notifications).
 
 ## CrowEngine
 ### Planned (no repo yet)
