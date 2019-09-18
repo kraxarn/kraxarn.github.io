@@ -5,7 +5,7 @@ Here you'll find my current (public) projects that are published to GitHub as we
 If you're looking for my main page (where I actually did all the code myself), you can find it [here](https://web.kraxarn.com)
 
 ## School Schedule
-### Finished [(repo)](https://github.com/kraxarn/school_schedule)
+### Ongoing [(repo)](https://github.com/kraxarn/school_schedule)
 App for Android and iOS used to manage your school schedule available for Swedish schools using KronoX. It also supports booking resources. Made in Dart using Flutter and one of my first projects using it. Also one of my largest projects currently. Still receives weekly updates.
 
 ## Bank
