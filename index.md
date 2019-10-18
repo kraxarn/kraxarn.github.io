@@ -2,7 +2,7 @@
 ### Version: 2019.10
 
 Here you'll find my current (public) projects that are published to GitHub as well as a short description about them and status.
-If you're looking for my main page (where I actually did all the code myself), you can find it [here](https://kraxarn.com) (it will temporarily redirect back here until the rewrite is completed)
+If you're looking for my main page (where I actually did all the code myself), you can find it [here](https://kraxarn.com)
 
 ## School Schedule
 ### Ongoing [(repo)](https://github.com/kraxarn/school_schedule)
