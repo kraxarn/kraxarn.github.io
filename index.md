@@ -1,8 +1,12 @@
 ## Welcome to my GitHub Page!
-### Version: 2019.10
+### Version: 2020.01
 
 Here you'll find my current (public) projects that are published to GitHub as well as a short description about them and status.
 If you're looking for my main page (where I actually did all the code myself), you can find it [here](https://kraxarn.com)
+
+## OpenRQ
+### Ongoing [(repo)](https://github.com/kraxarn/OpenRQ)
+Requirement management application initially developed as a group project, but is likely to start receiving more updates to actually make it useful.
 
 ## School Schedule
 ### Ongoing [(repo)](https://github.com/kraxarn/school_schedule)
