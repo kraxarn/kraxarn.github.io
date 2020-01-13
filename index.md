@@ -10,7 +10,7 @@ Requirement management application initially developed as a group project, but i
 
 ## School Schedule
 ### Ongoing [(repo)](https://github.com/kraxarn/school_schedule)
-App for Android and iOS used to manage your school schedule available for Swedish schools using KronoX. It also supports booking resources. Made in Dart using Flutter and one of my first projects using it. Also one of my largest projects currently. Still receives weekly updates.
+App for Android and iOS used to manage your school schedule available for Swedish schools using KronoX. It also supports booking resources. Made in Dart using Flutter and one of my first projects using it. Also one of my largest projects.
 
 ## Bank
 ### Beta [(repo)](https://github.com/kraxarn/Bank)
